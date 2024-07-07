@@ -1,4 +1,4 @@
-import Page_object.IndexPage;
+import ru.yandex.praktikum.pageobject.IndexPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Before;
 import org.junit.After;

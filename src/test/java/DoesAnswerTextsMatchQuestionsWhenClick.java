@@ -1,5 +1,5 @@
-import Page_object.IndexPage;
-import Constants.ExpectedTextStrings;
+import ru.yandex.praktikum.pageobject.IndexPage;
+import ru.yandex.praktikum.constants.ExpectedTextStrings;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package Constants;
+package ru.yandex.praktikum.constants;
 
 public class ExpectedTextStrings {
 

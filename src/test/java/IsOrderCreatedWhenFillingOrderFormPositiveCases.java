@@ -1,7 +1,10 @@
-import Page_object.*;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+import ru.yandex.praktikum.pageobject.CustomerDetailsPage;
+import ru.yandex.praktikum.pageobject.IndexPage;
+import ru.yandex.praktikum.pageobject.RentDetailsPage;
+
 import java.util.concurrent.TimeUnit;
 
 @RunWith(Parameterized.class)
